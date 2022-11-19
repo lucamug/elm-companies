@@ -384,6 +384,14 @@ understand their audiences. Remote engineering team, based in London.
   platform for producers, content owners, distributors, broadcasters and
   publishers.
 
+
+#### Music
+
+* [Ableton](https://www.ableton.com/en/about/)
+  Ableton makes unique software and hardware for music creation and performance. 
+  They use Elm for an application to [learn music](https://twitter.com/abletondev/status/861580662620508160).
+
+
 #### Planning
 
 * [IBM]'s [Decision Composer] app makes heavy use of Elm.
