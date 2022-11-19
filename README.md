@@ -142,7 +142,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   ([GitHub](https://github.com/orgs/brilliantorg/repositories?language=elm))
   Brilliant is an online learning platform that replaces lecture videos 
   with hands-on, interactive lessons.
-  Based in San Francisco with remote team members.
+  Most of our interactives are written in Elm! We're headquartered in 
+  San Francisco, CA but have folks all over the US and Canada.  
   ([Hiring](https://brilliant.org/careers/))
 * [DailyDrip](https://www.dailydrip.com/)
   ([GitHub](https://github.com/dailydrip)) -
