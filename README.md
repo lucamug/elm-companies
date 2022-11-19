@@ -150,6 +150,11 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Most of our interactives are written in Elm! We're headquartered in 
   San Francisco, CA but have folks all over the US and Canada.  
   ([Hiring](https://brilliant.org/careers/))
+* [Budapest School](https://budapestschool.org/en/) - BPS is a network of
+  Hungarian micro schools that promote an environment in which children become
+  naturally equipped with the mindset and skills needed to lead a happy life.
+  The internal educational platform used by teachers, students and parents are
+  built with Elm.
 * [DailyDrip](https://www.dailydrip.com/)
   ([GitHub](https://github.com/dailydrip)) -
   DailyDrip is a continuous education platform.  Daily bite-sized videos on new tech.
